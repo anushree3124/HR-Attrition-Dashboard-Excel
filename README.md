@@ -1,6 +1,6 @@
 HR Analysis-Attrition Factors Dashboard
 This Dashboard is related to Employee attrition analytics which is specifically focused on identifying why employees are leaving the company, what might have prevented them from leaving, and how we can use data to predict attrition risk.
-............................................................................................................................................
+
 Insights from the Dashboard:-
 : Total 2925 employees are there in the organizations.
 : 2433 (87%) employees are Active (currently working in the organization).
