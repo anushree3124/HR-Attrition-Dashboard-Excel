@@ -1,5 +1,8 @@
+➡️Here I developed an HR Data Insights dashboard for attrition analysis using Microsoft Excel.
+➡️I have analyzed a dataset with 2925 employees and find what are the various factors affecting attrition.
+➡️Implemented pivot tables and power pivot for effective data processing and visualization.
 
-Analyzed HR attrition dataset to gain insights into employee attrition in MS Excel.Uses pivot tables and charts .After further analysis created this Dashboard which is specifically focused on identifying why employees are leaving the company, what might have prevented them from leaving, and how we can use data to predict attrition risk.
+Insights from the Dashboard:-
 
 ➡️ Total employees: 2925, with 2433 (87%) currently active.
 ➡️ Average employee age: 37 years.
